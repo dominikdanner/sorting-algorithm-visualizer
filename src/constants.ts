@@ -1,0 +1,4 @@
+export const DEFAULT_ARRAY_LENGHT = 25
+export const DEFAULT_STEP_INTERVAL = 35
+export const DEFAULT_MIN_ALTITUDE = 50
+export const DEFAULT_ALTITUDE = 300
